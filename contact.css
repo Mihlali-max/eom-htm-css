@@ -21,6 +21,18 @@ form {
     
     
   }
+  .already{
+    border: 2px solid rgb(75, 72, 72);
+    padding: 10px;
+    border-radius: 50px 20px;
+    width: 1800px;
+    background: #56759c;
+    align-self: center;
+  
+  }
+  
+    
+
   .container {
     position: absolute;
     right: 0;
@@ -125,7 +137,7 @@ flip-card {
 
 
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: rgb(38, 57, 77);
   color: white;
   transform: rotateY(180deg);
 }

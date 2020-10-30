@@ -1,5 +1,8 @@
-*
- {
+
+
+
+
+*{
         margin: 0;
         padding: 0;
 
@@ -45,6 +48,14 @@ header{
     
 
    }
+   .newspaper{
+    border: 2px solid rgb(46, 45, 45);
+    padding: 10px;
+    border-radius: 50px 20px;
+  
+}
+  
+   
 
   
    .main-nav li 
@@ -127,7 +138,7 @@ header{
 }
 .container {
   position: relative;
-  max-width: 1700px; 
+  max-width: 961px; 
   margin: 0 auto; 
 }
 .container .content {
