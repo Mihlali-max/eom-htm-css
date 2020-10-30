@@ -4,12 +4,9 @@
     margin-bottom: 16px;
     padding: 0 8px;
   }
-<<<<<<< HEAD
   .column :hover{
     background-color: lavender;
   }
-=======
->>>>>>> 79ee00afa61580a581a99dabe64692cec64ffecc
   
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -19,7 +16,7 @@
   .about-section {
     padding: 50px;
     text-align: center;
-    background-color: #0e2147;
+    background-color:rgb(39, 27, 63);
     color: white;
   }
   
@@ -66,7 +63,6 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: initial;
     text-align: start;
-<<<<<<< HEAD
     color:#354a74 ;
     text-align: center;
       }
@@ -75,9 +71,11 @@
   font-size: medium;font-style: inherit;
 
 
-
 }
-=======
-  }
-  
->>>>>>> 79ee00afa61580a581a99dabe64692cec64ffecc
+.history :hover{
+  background-color:  rgb(232, 240, 240) ;
+}
+.look :hover{
+  background-color: mediumaquamarine;
+}
+
